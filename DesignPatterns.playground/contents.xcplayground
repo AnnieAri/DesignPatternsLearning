@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
+    <pages>
+        <page name='Strategy Pattern'/>
+        <page name='factory pattern'/>
+        <page name='Decorator Pattern'/>
+        <page name='Proxy Pattern'/>
+        <page name='Prototype Pattern'/>
+        <page name='Template Pattern'/>
+        <page name='Facade Pattern'/>
+        <page name='Builder Pattern'/>
+        <page name='Observer Pattern'/>
+        <page name='State Pattern'/>
+        <page name='Adapter Pattern'/>
+        <page name='Memento Pattern'/>
+        <page name='Composite Pattern'/>
+        <page name='Iterator Pattern'/>
+        <page name='Singleton Pattern'/>
+        <page name='Bridge Pattern'/>
+        <page name='Command Pattern'/>
+        <page name='Chain of Responsibility Pattern'/>
+        <page name='Mediator Pattern'/>
+        <page name='Flyweight Pattern'/>
+        <page name='Interpreter Pattern'/>
+        <page name='Visitor Pattern'/>
+        <page name='Untitled Page 6'/>
+        <page name='Untitled Page'/>
+    </pages>
+</playground>
